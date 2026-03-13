@@ -57,8 +57,8 @@ export function Instructor() {
                 <div ref={imageRef} className="relative">
                     <div className="aspect-[4/5] md:aspect-square relative rounded-[2rem] overflow-hidden border border-slate-200 shadow-2xl">
                         <img
-                            src="/instructor.png"
-                            alt="Instructor"
+                            src="/image.png"
+                            alt="Mahesh - Lead Instructor"
                             className="object-cover w-full h-full grayscale-[10%] hover:grayscale-0 transition-all duration-700"
                         />
                         {/* Soft gradient overlay for light theme text legibility if needed, but keeping it clean */}
